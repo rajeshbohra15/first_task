@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+    h2,h1{
+        font-size: 25px !important;
+
+    }
+
+    p{
+        font-size: 14px !important;
+    }
+
+    .b1{
+        width: 100px;
+    height: 33px;
+    font-size: 10px;
+    font-weight: 600;
+    }
+    
+    .row{
+        display: flex;
+    flex-direction: column; 
+    }
+    
+    .col{
+        order: 2;
+        margin: 0px !important;
+    }
+
+    .inner-box{
+        width: 70% !important;
+    height: 260px !important;
+    
+    }
+}
