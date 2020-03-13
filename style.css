@@ -28,11 +28,5 @@
         display: flex;
     flex-direction: column; 
     }
-    
-    .col{
-        order: 2;
-        margin: 0px !important;
-    }
-
    
 }
