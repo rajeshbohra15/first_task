@@ -12,13 +12,6 @@
     p{
         font-size: 14px !important;
     }
-
-    .b1{
-        width: 100px;
-    height: 33px;
-    font-size: 10px;
-    font-weight: 600;
-    }
     
     .row{
         display: flex;
